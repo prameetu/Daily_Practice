@@ -31,7 +31,7 @@ y = x**2
 #plt.show()
 
 
-#Using legens i.e label text in the plotting
+#Using legends i.e label text in the plotting
 
 fig = plt.figure()
 
